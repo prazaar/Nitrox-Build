@@ -10,6 +10,9 @@ An open-source, multiplayer modification for the game <a href="https://unknownwo
 [![Translation status](https://hosted.weblate.org/widgets/subnauticanitrox/-/svg-badge.svg)](https://hosted.weblate.org/engage/subnauticanitrox/)
 [![Discord](https://img.shields.io/discord/525437013403631617?logo=discord&logoColor=white)](https://discord.gg/E8B4X9s)
 
+### Whis is a inoffiziell download?
+yes, its a build of 1.8.0.0 Alpha
+
 ## FAQ
 
 ### What is the current status?
@@ -40,7 +43,7 @@ We finally have reached a stage, where we feel comfortable enough to give the pu
 
 If you want to follow the development progress exactly on each pull request. Refer to the <a href="https://subnauticanitrox.github.io/Documentation/">docs</a> to set up a development environment where pushed updates will be synchronized automatically.
 
-You can download the latest release of the mod on the <a href="https://nitrox.rux.gg">Nitrox website</a>.
+You can download the offiziel latest release of the mod on the <a href="https://nitrox.rux.gg">Nitrox website</a>.
 
 ### Problems/bugs/issues
 Due to the huge influx of new players for Subnautica the Issue tracker turned into a forum instead of its actual purpose. Please join the <a href="https://discord.gg/E8B4X9s">Nitrox Discord</a> to discuss any and all issues you have with Nitrox. From there we'll pick up on new issues to track.
@@ -56,8 +59,6 @@ You'll need to sign up to start translating to a new language, or you can sugges
 ### How can I contribute?
 Simply submit a pull request. Full documentation & contribution guidelines can be found on the <a href="https://subnauticanitrox.github.io/Documentation/">documentation site</a>. Feel free to join us in the <a href="https://discord.gg/E8B4X9s">Nitrox Discord channel</a>.
 
-### How can I donate?
-We do not accept donations to the mod.  Those wishing to give money can do so here: https://www.doctorswithoutborders.org/
 
 ### Why the name 'Nitrox'?
 Nitrox is an alternative air mixture, used by scuba divers, to achieve longer bottom times. As a mod, it will provide a new dimension of gameplay to extend your enjoyment.
